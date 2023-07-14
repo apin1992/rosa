@@ -1,0 +1,108 @@
+html {
+  font-family: 'Caprasimo', cursive;
+}
+header {
+  color: white;
+  background-image: url("https://mcdn.wallpapersafari.com/medium/23/98/u4gbin.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  display:;
+  margin: 30px 0px;
+  height: 150px;
+  text-align: center;
+  
+}
+h1 {
+  padding-top:50px;
+  font-family: 'Lobster', cursive;
+  letter-spacing: 3px;
+}
+nav {
+  font-size: 23px;
+  background-color: black;
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#duck-logo {
+  height: 60px;
+  width: 70px;
+  margin-left: 15px;
+  margin-top: 10px;
+}
+ul {
+}
+li {
+  display: inline-flex;
+  padding: 15px;  
+}
+section {
+  display: inline-flex;
+  margin: 20px;
+  background: linear-gradient(#0000ff, #292929);
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  box-shadow: 5px 5px 5px gray;
+
+  letter-spacing: 1px;
+  border-radius: 15px;
+}
+section:hover {
+  transform: scale(1.1);
+  box-shadow: 8px 8px 8px gray;
+}
+#article-my-name {
+  color: white;
+
+  font-family: 'Lobster', cursive;
+  text-align: center;
+  letter-spacing: 1px;
+  padding: 40px;
+  background-image: url("https://e0.pxfuel.com/wallpapers/149/259/desktop-wallpaper-web-design-web-developer-thumbnail.jpg");
+  background-size: contain;
+  background-repeat: ;
+
+}
+#my-projects {
+  font-family: 'Lobster', cursive;
+  font-size:large;
+  background-color: darkblue;
+  color: white;
+  padding: 20px;
+  margin-top: 30px ;
+  background-image: url("https://e1.pxfuel.com/desktop-wallpaper/887/880/desktop-wallpaper-web-developer-front-end-developer.jpg");
+  text-align: center;
+  letter-spacing: 2px;
+  background-size: cover;
+  background-repeat:
+}
+main {
+  background-color:;
+}
+img {
+  width: 300px;
+  height: 200px;
+  border-radius: 15px;
+}
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width: 420px) {
+}
+@media only screen and (max-width: 770px) {
+img {
+  width: 350px;
+  height: 200px;
+  }  
+}
+@media only screen and (max-width: 1000px) {
+}
